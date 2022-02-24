@@ -1,2 +1,2 @@
 # mibigmap
-Temporary repo to sho map of mibig at GRC
+Temporary repo to display map of mibig at GRC
